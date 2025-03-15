@@ -15,13 +15,21 @@ Since HuggingFace hasn't released Google's Gemma3 model on the main branch of `@
 1. Install the `new-model` branch and build the dist folder from the huggingface/transformer.js repo:
    ```sh
    npm install https://github.com/huggingface/transformers.js/archive/new-model.tar.gz
+   ```
+   ```sh
    cd node_modules/@huggingface/transformers
+   ```
+   ```sh
    npm install
+   ```
+   ```sh
    npm run build
    ```
 3. Install the dependencies in the top-level folder:
    ```sh
    cd../../..
+   ```
+   ```sh
    npm install
    ```
 4. Run the example:
