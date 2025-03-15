@@ -27,7 +27,7 @@ Since HuggingFace hasn't released Google's Gemma3 model on the main branch of `@
    ```
 3. Install the dependencies in the top-level folder:
    ```sh
-   cd../../..
+   cd ../../..
    ```
    ```sh
    npm install
