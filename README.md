@@ -1,12 +1,12 @@
 # node-esm-gemma3
 
-Since Huggingface hasn't released Google's Gemma3 model on the main branch of `@huggingface/transformers` yet this shows you how to get it from their new-model branch in a Node.js environment using ECMAScript Modules (ESM). The example utilizes `import` statements for module loading.
+Since HuggingFace hasn't released Google's Gemma3 model on the main branch of `@huggingface/transformers` yet this shows you how to get it from their new-model branch in a Node.js environment using ECMAScript Modules (ESM). The example utilizes `import` statements for module loading.
 
 ## Instructions
 
 1. Clone this repository:
    ```sh
-   git clone <THIS REPOS URL>
+   git clone https://github.com/fredeerock/node-esm-gemma3
    ```
 2. Change directory to the `node-esm-gemma3` project:
    ```sh
