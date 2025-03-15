@@ -1,4 +1,4 @@
-# node-esm
+# node-esm-gemma3
 
 Since Huggingface hasn't released Google's Gemma3 model on the main branch of `@huggingface/transformers` yet this shows you how to get it from their new-model branch in a Node.js environment using ECMAScript Modules (ESM). The example utilizes `import` statements for module loading.
 
